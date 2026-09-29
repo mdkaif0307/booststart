@@ -4,7 +4,6 @@ A modern and responsive business website built with **React** and **Vite**, desi
 
 🌐 **Live Website:** https://booststart.vercel.app/
 
-💻 **GitHub Repository:** https://github.com/YOUR-GITHUB-USERNAME/booststart
 
 ---
 
